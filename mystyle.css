@@ -6,7 +6,7 @@
 
 .big-container {
   background-color: hsl(30, 38%, 92%);
-  width: 1400px;
+  width: 100%;
   height: 100vh;
   display: flex;
   justify-content: center;
